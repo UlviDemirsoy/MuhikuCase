@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "navigation": {
+      "home": "Home"
+    },
+    "title": "Productlijst",
+    "create": "Product aanmaken",
+    "update": "Product bijwerken",
+    "delete": "Product verwijderen",
+    "description": "Beschrijving",
+    "name": "Naam",
+    "price": "Prijs",
+    "stock": "Voorraad",
+    "featuredImage": "Uitgelichte afbeelding",
+    "minPrice": "Minimale prijs",
+    "maxPrice": "Maximale prijs",
+    "inStock": "Op voorraad",
+    "cancel": "Cancel"
+  }
+}

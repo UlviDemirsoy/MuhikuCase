@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "navigation": {
+      "home": "Inicio"
+    },
+    "title": "Lista de productos",
+    "create": "Crear producto",
+    "update": "Actualizar producto",
+    "delete": "Eliminar producto",
+    "description": "Descripción",
+    "name": "Nombre",
+    "price": "Precio",
+    "stock": "Inventario",
+    "featuredImage": "Imagen destacada",
+    "minPrice": "Precio mínimo",
+    "maxPrice": "Precio máximo",
+    "inStock": "En stock",
+    "cancel": "Cancel"
+  }
+}

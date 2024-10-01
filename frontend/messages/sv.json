@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "navigation": {
+      "home": "Hem"
+    },
+    "title": "Produktlista",
+    "create": "Skapa produkt",
+    "update": "Uppdatera produkt",
+    "delete": "Radera produkt",
+    "description": "Beskrivning",
+    "name": "Namn",
+    "price": "Pris",
+    "stock": "Lager",
+    "featuredImage": "Utvald bild",
+    "minPrice": "Minsta pris",
+    "maxPrice": "Högsta pris",
+    "inStock": "I lager",
+    "cancel": "Cancel"
+  }
+}

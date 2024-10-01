@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "navigation": {
+      "home": "Home"
+    },
+    "title": "Product List",
+    "create": "Create Product",
+    "update": "Update Product",
+    "delete": "Delete Product",
+    "description": "Description",
+    "name": "Name",
+    "price": "Price",
+    "stock": "Stock",
+    "featuredImage": "Featured Image",
+    "minPrice": "Min Price",
+    "maxPrice": "Max Price",
+    "inStock": "In Stock",
+    "cancel": "Cancel"
+  }
+}
